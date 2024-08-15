@@ -40,6 +40,7 @@ function getCitiesFromCountry($countries, $selectedCountry){
   }
   return $option;
   
+}
 
 
 
